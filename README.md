@@ -22,7 +22,6 @@
 
 - **Сейчас изучаю:** `Java`, `Spring Boot`, `Rust`, `Python` — оставь только то, чем действительно занимаешься сейчас.
 - **Интересы:** backend, REST API, базы данных, Linux, терминальные приложения.
-- **Открыт к:** *(заполни при желании: совместным проектам, обратной связи, open source).*
 
 ## `> tech --list`
 
@@ -35,27 +34,20 @@ TOOLS       Git · Linux · NixOS
 
 > Удали технологии, которыми пока не пользуешься, и добавляй новые по мере практики.
 
-## `> ls ./projects`
 
-Здесь будут мои проекты. Вместо примеров ниже добавь ссылки на реальные репозитории.
 
-| Проект | Описание | Стек |
-|---|---|---|
-| [`project-name`](PROJECT_REPOSITORY_URL) | Кратко: какую задачу решает проект | `TECH` |
-| [`project-name`](PROJECT_REPOSITORY_URL) | Кратко: что реализовано и чему научился | `TECH` |
-| [`project-name`](PROJECT_REPOSITORY_URL) | Кратко: основные возможности | `TECH` |
 
 ## `> current-focus`
 
-- [ ] **Проект:** `название или идея проекта`
-- [ ] **Изучаю:** `тема или технология`
-- [ ] **Следующий шаг:** `конкретная небольшая задача`
+- [ ] **Проект:** `pylings`
+- [ ] **Изучаю:** `Rust`
+- [ ] **Следующий шаг:** `Изучение Python`
 
 ## `> contact`
 
 - **GitHub:** [@svgudkov](https://github.com/svgudkov)
-- **Email:** `your-email@example.com` *(замени, если хочешь указать публичную почту)*
-- **Telegram / сайт:** `добавь ссылку по желанию`
+- **Email:** `vorgarbachakov@gmail.com` *(замени, если хочешь указать публичную почту)*
+- **Telegram / сайт:** `https://svgudkov.github.io/tokiyomiweb/`
 
 ---
 
@@ -67,7 +59,6 @@ Hi! I'm learning backend development and systems programming. I use projects to 
 
 - **Currently learning:** `Java`, `Spring Boot`, `Rust`, `Python` — keep only what you're actively studying.
 - **Interests:** backend development, REST APIs, databases, Linux, terminal applications.
-- **Open to:** *(optional: collaboration, feedback, open-source contributions).*
 
 ## `> tech --list`
 
@@ -78,29 +69,21 @@ DATABASES   PostgreSQL
 TOOLS       Git · Linux · NixOS
 ```
 
-> Remove technologies you don't use yet, and add others as you gain practical experience.
 
-## `> ls ./projects`
 
-Add links to real repositories here. The entries below are placeholders, not existing projects.
 
-| Project | Description | Stack |
-|---|---|---|
-| [`project-name`](PROJECT_REPOSITORY_URL) | What problem it solves | `TECH` |
-| [`project-name`](PROJECT_REPOSITORY_URL) | What you built and learned | `TECH` |
-| [`project-name`](PROJECT_REPOSITORY_URL) | Main features | `TECH` |
 
 ## `> current-focus`
 
-- [ ] **Project:** `project name or idea`
-- [ ] **Learning:** `topic or technology`
-- [ ] **Next step:** `one concrete task`
+- [ ] **Project:** `pylings`
+- [ ] **Learning:** `Rust`
+- [ ] **Next step:** `Learning Python`
 
 ## `> contact`
 
 - **GitHub:** [@svgudkov](https://github.com/svgudkov)
-- **Email:** `your-email@example.com` *(replace if you want to publish an email address)*
-- **Telegram / website:** `add a link if you want`
+- **Email:** `vorgarbachakov@gmail.com` *(replace if you want to publish an email address)*
+- **Telegram / website:** `https://svgudkov.github.io/tokiyomiweb/`
 
 ---
 
