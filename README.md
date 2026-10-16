@@ -33,7 +33,7 @@ TOOLS       Git · Linux · NixOS
 ## `> contact`
 
 - **GitHub:** [@svgudkov](https://github.com/svgudkov)
-- **Email:** `vorgarbachakov@gmail.com` *(замени, если хочешь указать публичную почту)*
+- **Email:** `vorgarbachakov@gmail.com`
 - **Telegram / сайт:** `https://svgudkov.github.io/tokiyomiweb/`
 
 ---
@@ -55,7 +55,7 @@ TOOLS       Git · Linux · NixOS
 ## `> contact`
 
 - **GitHub:** [@svgudkov](https://github.com/svgudkov)
-- **Email:** `vorgarbachakov@gmail.com` *(replace if you want to publish an email address)*
+- **Email:** `vorgarbachakov@gmail.com`
 - **Telegram / website:** `https://svgudkov.github.io/tokiyomiweb/`
 
 ---
