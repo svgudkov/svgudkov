@@ -20,7 +20,7 @@
 
 Привет! Я изучаю backend-разработку и системное программирование. Использую проекты как способ разбираться в технологиях на практике и постепенно улучшать качество своего кода.
 
-- **Сейчас изучаю:** `Java`, `Spring Boot`, `Rust`, `Python` — оставь только то, чем действительно занимаешься сейчас.
+- **Сейчас изучаю:** `Java`, `Spring Boot`, `Rust`, `Python`.
 - **Интересы:** backend, REST API, базы данных, Linux, терминальные приложения.
 
 ## `> tech --list`
@@ -31,11 +31,6 @@ BACKEND     Spring Boot · REST API
 DATABASES   PostgreSQL
 TOOLS       Git · Linux · NixOS
 ```
-
-> Удали технологии, которыми пока не пользуешься, и добавляй новые по мере практики.
-
-
-
 
 ## `> current-focus`
 
@@ -57,7 +52,7 @@ TOOLS       Git · Linux · NixOS
 
 Hi! I'm learning backend development and systems programming. I use projects to explore technologies hands-on and steadily improve my code.
 
-- **Currently learning:** `Java`, `Spring Boot`, `Rust`, `Python` — keep only what you're actively studying.
+- **Currently learning:** `Java`, `Spring Boot`, `Rust`, `Python`.
 - **Interests:** backend development, REST APIs, databases, Linux, terminal applications.
 
 ## `> tech --list`
@@ -68,10 +63,6 @@ BACKEND     Spring Boot · REST API
 DATABASES   PostgreSQL
 TOOLS       Git · Linux · NixOS
 ```
-
-
-
-
 
 ## `> current-focus`
 
