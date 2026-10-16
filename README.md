@@ -8,37 +8,6 @@
 
 `JAVA` / `SPRING BOOT` / `RUST` / `PYTHON`
 
-[Русский](#русский) · [English](#english)
-
-</div>
-
----
-
-<a id="русский"></a>
-
-
-- **Сейчас изучаю:** `Java`, `Spring Boot`, `Rust`, `Python`.
-- **Интересы:** backend, REST API, базы данных, Linux, терминальные приложения.
-
-## `> tech --list`
-
-```text
-LANGUAGES   Java · Rust · Python · SQL
-BACKEND     Spring Boot · REST API
-DATABASES   PostgreSQL
-TOOLS       Git · Linux · NixOS
-```
-
-
-## `> contact`
-
-- **GitHub:** [@svgudkov](https://github.com/svgudkov)
-- **Email:** `vorgarbachakov@gmail.com`
-- **Telegram / сайт:** `https://svgudkov.github.io/tokiyomiweb/`
-
----
-
-<a id="english"></a>
 
 - **Currently learning:** `Java`, `Spring Boot`, `Rust`, `Python`.
 - **Interests:** backend development, REST APIs, databases, Linux, terminal applications.
